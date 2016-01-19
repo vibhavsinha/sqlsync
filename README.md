@@ -1,6 +1,9 @@
 # sqlsyncNumber Formatter
 =========
 
+[![Build Status](https://travis-ci.org/vibhavsinha/sqlsync.svg?branch=master)](https://travis-ci.org/vibhavsinha/sqlsync)
+[![Coverage Status](https://ccoverallsoveralls.io/repos/github/vibhavsinha/sqlsync/badge.svg?branch=master)](https://coveralls.io/github/vibhavsinha/sqlsync?branch=master)
+
 A small library that adds commas to numbers
 
 ## Installation
