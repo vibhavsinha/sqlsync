@@ -1,0 +1,23 @@
+{
+  "name": "sqlsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhavsinha/sqlsync.git"
+  },
+  "author": "Vibhav Sinha <v@vsinha.me> (http://vsinha.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vibhavsinha/sqlsync/issues"
+  },
+  "homepage": "https://github.com/vibhavsinha/sqlsync#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
